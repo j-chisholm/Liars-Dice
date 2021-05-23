@@ -1,0 +1,4 @@
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\Code Files\Liars_Dice\Debug\Liars_Dice.exe
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\Code Files\Liars_Dice\Debug\Liars_Dice.pdb
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\Debug\Liars_Dice.exe
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\Debug\Liars_Dice.pdb

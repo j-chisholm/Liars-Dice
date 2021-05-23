@@ -1,0 +1,61 @@
+LIAR'S DICE
+
+Liar's Dice is a multiplayer dice game played with atleast two
+players and no upper limit. The objective of the game is to
+make a correct guess or correctly call another player a liar.
+Bluffing is not only allowed, it is encouraged.
+
+
+TERMINOLOGY
+
+"Pool"		- The total number of dice across all players.
+"Stash"		- The number of dice given to each player.
+"Forfeit"	- a punishment decided upon by the group of
+		  players prior to the commencement of the game.
+
+RULES:
+
+1. Liar's Dice may only be played by 2 or more players. If there
+   are more than 2 player's, play rotation must be determined in
+   advance.
+
+2. Each player is allotted 5 dice.
+
+3. Player One is determined by each player rolling all their
+   dice. Whoever has the highest total will become Player
+   One. If there are two or more players with the highest
+   total, all players must roll again. Continue until there
+   is at most one player with the highest total.
+
+4. Play begins. All players roll their dice.
+
+5. Player One calls how many dice of a certain value are in
+   the pool. For example, "three sixes". At the beginning of
+   their turn each player will be shown their own stash and
+   will have the option of calling Player One a liar or
+   accept their call and move on to the next Player.
+   (Note: Player One need not have any sixes in their stash,
+   bluffing is encouraged. What matters is whether or not
+   the other players believe the call.)
+
+6. If all Players accept Player One's call, the next Player
+   becomes Player Two. Player Two must now make their own
+   call, however the number of dice they call must be
+   greater than that of Player One. For example if Player One
+   called "three sixes", Player Two's call would be something
+   similar to "four twos" or "five threes". An invalid call
+   would be "two sixes". If Player Two's call is accepted by
+   all players then repeat from rule 5 with the calling player
+   being the next player in the play rotation.
+
+7. If any Player does not believe another Player's call, then
+   the player that made the call is called out as a liar. All
+   Players will reveal their dice. If the liar is correct then
+   they win the round and the player who called them out as a
+   liar must pay the forfeit. If the liar is incorrect, then
+   they must pay the forefeit and the player that called them
+   out is declared the winner. Once the forfeit is paid, the
+   round is over and the winner begins the next round.
+
+8. Subsequent rounds continue until the Players decide to quit.*
+

@@ -1,0 +1,12 @@
+﻿  GameController.cpp
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\GameController.cpp(281,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\GameController.cpp(365,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\GameController.cpp(373,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\GameController.cpp(427,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\GameController.cpp(500,15): warning C4101: 'previousWinner': unreferenced local variable
+  LiarsDice.cpp
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\LiarsDice.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\GameController.cpp(492): warning C4715: 'GameController::Continue': not all control paths return a value
+  Liars_Dice.vcxproj -> C:\Users\jevon\Documents\SNHU\IT 312\Final Project\J_Chisholm_Liar's_Dice\Debug\Liars_Dice.exe
