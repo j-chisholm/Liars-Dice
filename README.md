@@ -1,2 +1,4 @@
 # Liars-Dice
-A few programming projects I made from my classes.
+A small game I programmed for a class project using the rules found here:
+
+https://www.thoughtco.com/how-to-play-liars-dice-687532
